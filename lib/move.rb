@@ -1,4 +1,4 @@
-
+#we are taking an array and outputting each of those elements to the console using puts.  SO when we do boaurd {0}, it takes the first elements
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
