@@ -19,6 +19,7 @@ def move(board, position, char = "X" )
   board[position]=char
 end
 # move(board,5,"X")
+# Line 19 explanation: update the board array at the position element - first: we pass an array into move method through the board argument, second: write the character into the array at the specific postion or the second argument in this case
 
 
 
